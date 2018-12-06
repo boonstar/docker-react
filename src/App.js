@@ -18,6 +18,9 @@ class App extends Component {
           <p>
 	    Walaoooo eh!
           </p>
+          <p>
+	    I was changed on the Feature branch
+          </p>
 
           <a
             className="App-link"
